@@ -10,6 +10,6 @@ $ cp vars.example pki/vars
 Build CA with:
 
 ```shell
-$ easyrsa build-ca nopass
+$ easyrsa build-ca
 ```
 
