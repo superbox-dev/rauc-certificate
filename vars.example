@@ -99,9 +99,9 @@ set_var EASYRSA_DN	"org"
 set_var EASYRSA_REQ_COUNTRY	"AT"
 set_var EASYRSA_REQ_PROVINCE	"Upper Austria"
 set_var EASYRSA_REQ_CITY	"Linz"
-set_var EASYRSA_REQ_ORG		"superbox-dev"
+set_var EASYRSA_REQ_ORG		"superbox"
 set_var EASYRSA_REQ_EMAIL	"root@superbox.one"
-#set_var EASYRSA_REQ_OU		"My Organizational Unit"
+set_var EASYRSA_REQ_OU		"superbox-dev"
 
 # Choose a size in bits for your keypairs. The recommended value is 2048.  Using
 # 2048-bit keys is considered more than sufficient for many years into the
