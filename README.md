@@ -1,2 +1,5 @@
-# rauc-certificate
-RAUC certificate with easy-rsa
+```shell
+$ easyrsa init-pki
+$ cp vars.example pki/vars
+```
+
