@@ -13,3 +13,4 @@ Build CA with:
 $ easyrsa build-ca
 ```
 
+You now have two important files: `pki/ca.crt` and `private/ca.key` which make up the public and private components of a Certificate Authority.
