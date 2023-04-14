@@ -7,7 +7,7 @@ A Tool to generate a simple CA for [RAUC](https://rauc.readthedocs.io/).
 | Argument                     | Description                                            |
 |------------------------------|--------------------------------------------------------|
 | `--build-root-ca [ORG] [CA]` | Build root CA and directory structure for certificates |
-| ` --create-signing-key [CN]` | Create code signing key                                |
+| `--create-signing-key [CN]`  | Create code signing key                                |
 
 ## Usage
 
