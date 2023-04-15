@@ -26,7 +26,7 @@ export OPENSSL_CONF="$(pwd)/openssl.cnf"
 
 function print_help() {
   cat <<HEREDOC
-Unipi Control OS Tools
+OpenSSL CA for RAUC certificates
 Usage: ${_ME} [-h] [--build-root-ca] [--create-signing-key]
 
 Options:
